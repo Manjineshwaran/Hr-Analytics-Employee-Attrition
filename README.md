@@ -1,6 +1,6 @@
 # Hr-Analytics-Employee-Attrition-Tableau
 Tableau/ Data Visualization
-![](GIF.mp4)
+![](GIF.gif)
 This is a Tableau dashboard project regarding Employee Attrition.
 To access with this [**URL**](https://public.tableau.com/app/profile/manjineshwaran.g/viz/HRanalytics_EmployeeAttrition_16965069069170/Dashboard1)
 The dashboard consists of three parts: Count Summary; Attrition rate Distribution and DE & I
