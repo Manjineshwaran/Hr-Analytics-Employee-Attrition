@@ -1,4 +1,4 @@
-# Hr-Analytics-Employee-Attrition
+# Hr-Analytics-Employee-Attrition-Tableau
 Tableau/ Data Visualization
 
 This is a Tableau dashboard project regarding Employee Attrition.
