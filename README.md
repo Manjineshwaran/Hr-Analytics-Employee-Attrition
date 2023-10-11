@@ -2,7 +2,8 @@
 Tableau/ Data Visualization
 
 This is a Tableau dashboard project regarding Employee Attrition.
-To access with this https://public.tableau.com/app/profile/manjineshwaran.g/viz/HRanalytics_EmployeeAttrition_16965069069170/Dashboard1
+To access with this `[URL](https://public.tableau.com/app/profile/manjineshwaran.g/viz/HRanalytics_EmployeeAttrition_16965069069170/Dashboard1)`
+https://public.tableau.com/app/profile/manjineshwaran.g/viz/HRanalytics_EmployeeAttrition_16965069069170/Dashboard1
 The dashboard consists of three parts: Count Summary; Attrition rate Distribution and DE & I
 
 The total attrition rate is 16.12%, which is higher than the ideal 10% benchmark.
